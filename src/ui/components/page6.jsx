@@ -3,7 +3,7 @@ import React from "react";
 export const Page6 = () => {
   return (
     <>
-      {/* Header Section */}
+     
       <div className="p-8 bg-gray-100 text-center">
         <h1 className="text-2xl md:text-6xl text-red-900 font-bold mb-4">
           What I Have Created
@@ -14,9 +14,9 @@ export const Page6 = () => {
         </p>
       </div>
 
-      {/* Project Cards */}
+      
       <div className="flex flex-wrap justify-center gap-6 py-8">
-        {/* Card 1 */}
+       
         <div className="bg-white shadow-lg rounded-lg p-6 w-full sm:w-96">
           <div className="flex items-center mb-4">
             <div className="w-10 h-10 flex items-center justify-center bg-blue-200 rounded-full">
@@ -43,7 +43,7 @@ export const Page6 = () => {
           </button>
         </div>
 
-        {/* Card 2 */}
+      
         <div className="bg-white shadow-lg rounded-lg p-6 w-full sm:w-96">
           <div className="flex items-center mb-4">
             <div className="w-10 h-10 flex items-center justify-center bg-blue-200 rounded-full">

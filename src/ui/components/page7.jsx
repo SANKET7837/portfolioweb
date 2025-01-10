@@ -3,7 +3,7 @@ import React from "react";
 export const Page7 = () => {
   return (
     <>
-      {/* Header Section */}
+      
       <div className="p-8 bg-gray-100 text-center">
         <h1 className="text-2xl md:text-6xl text-red-900 font-bold mb-4">
           Get In Touch
@@ -14,15 +14,15 @@ export const Page7 = () => {
         </p>
       </div>
 
-      {/* Content Section */}
+     
       <div className="min-h-screen bg-gray-100 flex flex-wrap items-start justify-center gap-8 py-8">
-        {/* Contact Form */}
+       
         <div className="bg-white shadow-lg rounded-lg p-8 w-full max-w-2xl">
           <h2 className="text-3xl font-bold text-gray-800 mb-6 text-center">
             Contact Me
           </h2>
           <form className="space-y-6">
-            {/* Name Field */}
+          
             <div>
               <label
                 htmlFor="name"
@@ -39,7 +39,7 @@ export const Page7 = () => {
               />
             </div>
 
-            {/* Email Field */}
+           
             <div>
               <label
                 htmlFor="email"
@@ -56,7 +56,7 @@ export const Page7 = () => {
               />
             </div>
 
-            {/* Message Field */}
+            
             <div>
               <label
                 htmlFor="message"
@@ -73,7 +73,7 @@ export const Page7 = () => {
               />
             </div>
 
-            {/* Submit Button */}
+           
             <div>
               <button
                 type="submit"
@@ -85,7 +85,7 @@ export const Page7 = () => {
           </form>
         </div>
 
-        {/* Contact Information */}
+        
         <div className="bg-white shadow-lg rounded-lg p-6 w-full sm:w-96">
           <div className="flex items-center mb-4">
             <div className="w-10 h-10 flex items-center justify-center bg-blue-200 rounded-full">
