@@ -16,7 +16,7 @@ export const Page4 = () => {
 				<div class="bg-white shadow-lg rounded-lg p-6 w-full sm:w-96">
 					<div class="flex items-center mb-4">
 						<div class="w-10 h-10 flex items-center justify-center bg-green-200 rounded-full">
-							<img src="public/image2.png" alt="Wallet Icon" class="w-6 h-6" />
+							<img src="image2.png" alt="Wallet Icon" class="w-6 h-6" />
 						</div>
 						<h2 class="text-lg font-semibold ml-4">
 							Full-stack Developer - FinlyWealth
@@ -42,7 +42,7 @@ export const Page4 = () => {
 				<div class="bg-white shadow-lg rounded-lg p-6 w-full sm:w-96">
 					<div class="flex items-center mb-4">
 						<div class="w-10 h-10 flex items-center justify-center bg-blue-200 rounded-full">
-							<img src="public/image3.png" alt="Hand Icon" class="w-6 h-6" />
+							<img src="image3.png" alt="Hand Icon" class="w-6 h-6" />
 						</div>
 						<h2 class="text-lg font-semibold ml-4">
 							Full Stack Developer - Dastyar
@@ -72,7 +72,7 @@ export const Page4 = () => {
 				<div class="bg-white shadow-lg rounded-lg p-6 w-full sm:w-96">
 					<div class="flex items-center mb-4">
 						<div class="w-10 h-10 flex items-center justify-center bg-green-200 rounded-full">
-							<img src="public/image4.png" alt="Wallet Icon" class="w-6 h-6" />
+							<img src="image4.png" alt="Wallet Icon" class="w-6 h-6" />
 						</div>
 						<h2 class="text-lg font-semibold ml-4">
 							Full-stack Developer - 7 Learn
@@ -95,7 +95,7 @@ export const Page4 = () => {
 				<div class="bg-white shadow-lg rounded-lg p-6 w-full sm:w-96">
 					<div class="flex items-center mb-4">
 						<div class="w-10 h-10 flex items-center justify-center bg-blue-200 rounded-full">
-							<img src="public/image5.png" alt="Hand Icon" class="w-6 h-6" />
+							<img src="image5.png" alt="Hand Icon" class="w-6 h-6" />
 						</div>
 						<h2 class="text-lg font-semibold ml-4">
 							Full Stack Developer - Cowsel Software Solutions

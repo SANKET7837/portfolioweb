@@ -89,7 +89,7 @@ export const Page7 = () => {
         <div className="bg-white shadow-lg rounded-lg p-6 w-full sm:w-96">
           <div className="flex items-center mb-4">
             <div className="w-10 h-10 flex items-center justify-center bg-blue-200 rounded-full">
-              <img src="/image8.png" alt="Contact Icon" className="w-6 h-6" />
+              <img src="image8.png" alt="Contact Icon" className="w-6 h-6" />
             </div>
             <h2 className="text-lg font-semibold ml-4 bg-orange-300 px-2 py-1 rounded-md">
               What Is Your Plan? CALL ME!

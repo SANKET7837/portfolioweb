@@ -6,7 +6,7 @@ export const Page2 = () => {
 			{/* Image Section */}
 			<img
 				className="h-auto w-full md:w-2/6 object-cover m-6"
-				src="public/image1.png"
+				src="image1.png"
 				alt="Reza Ghasemzadeh"
 			/>
 

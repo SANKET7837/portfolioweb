@@ -21,7 +21,7 @@ export const Page6 = () => {
           <div className="flex items-center mb-4">
             <div className="w-10 h-10 flex items-center justify-center bg-blue-200 rounded-full">
               <img
-                src="/image6.png"
+                src="image6.png"
                 alt="Modi Lipi Translator Icon"
                 className="w-6 h-6"
               />
@@ -48,7 +48,7 @@ export const Page6 = () => {
           <div className="flex items-center mb-4">
             <div className="w-10 h-10 flex items-center justify-center bg-blue-200 rounded-full">
               <img
-                src="/image7.png"
+                src="image7.png"
                 alt="Contact Management Icon"
                 className="w-6 h-6"
               />
