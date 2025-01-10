@@ -6,7 +6,7 @@ export const Page1 = () => {
 			{/* Image Section */}
 			<img
 				className="w-full md:w-96 h-auto object-cover m-4"
-				src="public/image.png"
+				src="image.png"
 				alt="Murali Vijay"
 			/>
 
